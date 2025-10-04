@@ -50,6 +50,7 @@ Used rmdir (to remove the Test1 directory)
 
 Once again ls to double confirm everything also manually check the file tab.
 
+
 ## Lab 1B
 
 ## Lab 2A
